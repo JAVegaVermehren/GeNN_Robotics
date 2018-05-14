@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JoystickTest", "joystick\JoystickTest.vcxproj", "{7BCC5991-C250-41D3-AC4B-C834F9C74288}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "visual", "visual\visual.vcxproj", "{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7BCC5991-C250-41D3-AC4B-C834F9C74288}.Release|x64.Build.0 = Release|x64
 		{7BCC5991-C250-41D3-AC4B-C834F9C74288}.Release|x86.ActiveCfg = Release|Win32
 		{7BCC5991-C250-41D3-AC4B-C834F9C74288}.Release|x86.Build.0 = Release|Win32
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Debug|x64.ActiveCfg = Debug|x64
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Debug|x64.Build.0 = Debug|x64
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Debug|x86.Build.0 = Debug|Win32
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Release|x64.ActiveCfg = Release|x64
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Release|x64.Build.0 = Release|x64
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Release|x86.ActiveCfg = Release|Win32
+		{5C8CBBC8-3EDD-495E-AE6A-65B62ADABA74}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
